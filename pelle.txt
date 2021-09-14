@@ -1,3 +1,5 @@
 Dette er en test 
 skrevet av pelle 
 linje 3 
+Linje 4 og 
+Fem
